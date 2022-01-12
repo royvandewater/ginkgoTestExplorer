@@ -192,6 +192,11 @@
           "default": "ginkgo",
           "description": "Path to ginkgo executable."
         },
+        "ginkgotestexplorer.ginkgoV2": {
+          "type": "boolean",
+          "default": false,
+          "description": "Enable ginkgo V2 support"
+        },
         "ginkgotestexplorer.doubleClickThreshold": {
           "type": "number",
           "default": 400,

@@ -10,7 +10,8 @@
 			"type": "extensionHost",
 			"request": "launch",
 			"args": [
-				"--extensionDevelopmentPath=${workspaceFolder}"
+				"--extensionDevelopmentPath=${workspaceFolder}",
+				"/Users/roy/Projects/circleci/audience-qualification-service-go"
 			],
 			"outFiles": [
 				"${workspaceFolder}/out/**/*.js"

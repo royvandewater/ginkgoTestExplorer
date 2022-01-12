@@ -18,5 +18,6 @@ export const constants = {
     defaultEnableCodeLens: true,
     defaultTestEnvVars: {},
     defaultTestEnvFile: "",
-    defaultExecuteCommandsOn: 'onTerminal' as ExecuteCommandsOn
+    defaultExecuteCommandsOn: 'onTerminal' as ExecuteCommandsOn,
+    ginkgoV2: false,
 };
